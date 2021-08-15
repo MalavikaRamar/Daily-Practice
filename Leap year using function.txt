@@ -1,0 +1,2 @@
+# separate by stars
+print('i', 'am', 'malavika',sep='**')
