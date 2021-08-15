@@ -1,0 +1,4 @@
+# float number with two decimal places
+
+n=float(input())
+print("%.2f"%(n))
