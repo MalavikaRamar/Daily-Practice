@@ -1,0 +1,4 @@
+listA = []
+n=int(input("Enter the elements"))
+listA=list(map(int,input("Enter the numbers").strip().split(',')))[:n]
+print("The entered list is:\n",listA)
